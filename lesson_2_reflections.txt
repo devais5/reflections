@@ -5,3 +5,9 @@ A1 - When I initialize a repository the folder will contain a file named ".git" 
 Q2 - How is the staging area different from the working directory and the repository? What value do you think it offers?
 A2 - The staging area is placed between the working folder and the repository. It contains files that are ready to be commited. It gives us the possiblity to check the files we are going to commit and to be
      certain about what we are going to commit, we might need to change again the files before commiting them or maybe we are going to commit a wrong file.
+
+Q3 - How can you use the staging area to make sure you have one commit per logical change?
+A3 - I can check that I'm going to commit per logical change by checkings before with the command git diff to see the difference bewteen the working folder and the staging area, then I can double check with 
+     the command git diff --staged where I can see the difference beetween the staging area and the most recent commit. In this way I will be sure to have put in the staging area something that has a logical
+     sense in terms of changing.
+     
