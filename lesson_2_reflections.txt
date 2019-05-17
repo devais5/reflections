@@ -11,3 +11,5 @@ A3 - I can check that I'm going to commit per logical change by checkings before
      the command git diff --staged where I can see the difference beetween the staging area and the most recent commit. In this way I will be sure to have put in the staging area something that has a logical
      sense in terms of changing.
      
+Q4 - What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A4 - It can helps me when I want to add a new feature so I can see when it was implemented and merged to the master branch. Branches helps me separate all the differnt new feature implemented.
