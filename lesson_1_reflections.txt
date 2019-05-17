@@ -1,0 +1,24 @@
+Q1 - How did viewing a diff between two version help you spot the bug?
+A1 - Viewing a diff between two version helped me spot the bug because it highlight the differnce betweenthe two, so I can easily see where the error or typos were made.
+
+Q2 - How could having access to the entire history of a file make you a more efficient programmer in the long term?
+A2 - It can show me the changes that I have made during the entire period of developing. I can learn from the mistake I have made in the process, and I can learn what step I should follow while writing
+     code.
+
+Q3 - What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A3 - The pros are most of all the flexibility of choice, which means I can choose to commit whenever I want, secondly it can helps me make commit with the right logical change and context. The cons are  
+     I could forget to commit after a lot of hours of work, and not making commit of the correct size, maybe for too small changes or too big changes.
+
+Q4 - Why do you think some version control system, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A4 - Because most of the projects includes multiple files linked between them. When changing a file, we might have changed other files connected to it. While most of Google Docs project are single file 
+     paper sheet with no realationships with other files.
+
+Q5 - How can you use the commands git log and git diff to view the history of files?
+A5 - With the command git log I can see all the commit that have been made for the repository in an inverted cronological order. With git diff I can see the difference in the files between and older and
+     newer commit.
+
+Q6 - How might using version control make you more confident to make changes that could break something?
+A6 - I can try to make changes that may break the project because I can always go back to a commit where the project was still working.
+
+Q7 - Now that you have your workspace set up, what do you want to try using Git for?
+A7 - For every project I will develop and to finish this course.
