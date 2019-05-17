@@ -13,3 +13,8 @@ A3 - I can check that I'm going to commit per logical change by checkings before
      
 Q4 - What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A4 - It can helps me when I want to add a new feature so I can see when it was implemented and merged to the master branch. Branches helps me separate all the differnt new feature implemented.
+
+Q5 - How do diagrams help you visualize the branch structure?
+A5 - The diagrams help me visualize the master branch with its commits, the other branches with names and their realtive commits and finally the detached commit with no branch name that can be added to the 
+     whole project with the command "git branch -b 'new_branch_name'".
+     
