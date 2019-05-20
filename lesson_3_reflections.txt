@@ -14,3 +14,6 @@ A4 - Because I can make changes relative to an updated version so I won't have a
 
 Q5 - How would you collaborate witout usign Git or GitHub? What would be easier, and what would be harder?
 A5 - With dropbox or google drive. Load and download files on the drive and locally. It would be harder to cooperate on the same file at the same time.
+
+Q6 - When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A6 - When I am fixing bugs on what I am working on, or implementing something on what I have already done in that branch. In this way anyone can work on the project simultaneously without interfering.
