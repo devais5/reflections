@@ -21,4 +21,7 @@ A5 - The diagrams help me visualize the master branch with its commits, the othe
 Q6 - What is the result of merging two branches? Why do represent in the diagram the way we do?
 A6 - The result is having a new commit in the master branch that has two parents the previous commit in the master branch and the last commit in the branch that we just merged. We represent it in the diagram
      in this way to helps us understand when the new branch was created and when it was merged so we can also understand what commit where done separately in the branch.
-     
+
+Q7 - What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+A7 - The pros of automatic merging is always update the main branch with the new features it helps us remember what branches we have added and helps us remove labels. On the other hand it can creates
+     conflicts. We could avoid merging manually.
