@@ -11,3 +11,6 @@ A3 - Forks is a tool that can be used only in GitHub that makes a copy of a repo
     
 Q4 - What is the benefit of having a copy of the last known state of the remote stored locally?
 A4 - Because I can make changes relative to an updated version so I won't have a lot of conflicts in merging and bugs.
+
+Q5 - How would you collaborate witout usign Git or GitHub? What would be easier, and what would be harder?
+A5 - With dropbox or google drive. Load and download files on the drive and locally. It would be harder to cooperate on the same file at the same time.
